@@ -23,6 +23,6 @@
 
 ## 2. If you add a requirement for Web application along with Android, iOS, macOS, and Windows applications, what changes are required to your framework? Justify your choice.
 
-        Ans =>
-        .NET MAUI (Multi-platform App UI) is a cross-platform framework for building applications for Android, iOS, macOS, and Windows. If you want to add a requirement for a web application in addition to these platforms, you would need to modify the framework to support web application development.
-        To do this, you would need to add support for web technologies such as HTML, CSS, and JavaScript to the framework. You might also need to add support for web-specific features and APIs, such as web sockets and server-side rendering.
+####### Ans =>
+    .NET MAUI (Multi-platform App UI) is a cross-platform framework for building applications for Android, iOS, macOS, and Windows. If you want to add a requirement for a web application in addition to these platforms, you would need to modify the framework to support web application development.
+    To do this, you would need to add support for web technologies such as HTML, CSS, and JavaScript to the framework. You might also need to add support for web-specific features and APIs, such as web sockets and server-side rendering.
